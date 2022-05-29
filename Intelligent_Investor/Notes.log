@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.22)  28 MAY 2022 22:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.22)  28 MAY 2022 22:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/brand/OneDrive/Desktop/main/Reading/List/List.tex
-(c:/Users/brand/OneDrive/Desktop/main/Reading/List/List.tex
+**c:/Users/brand/OneDrive/Desktop/main/Reading/Intelligent_Investor/Notes.tex
+(c:/Users/brand/OneDrive/Desktop/main/Reading/Intelligent_Investor/Notes.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (C:\Users\brand\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -81,8 +81,8 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box50
-) (List.aux)
-\openout1 = `List.aux'.
+) (Notes.aux)
+\openout1 = `Notes.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
@@ -135,19 +135,19 @@ LaTeX Font Info:    ... okay on input line 5.
 
 [1
 
-{C:/Users/brand/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (List.aux) ) 
+{C:/Users/brand/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (Notes.aux) ) 
 Here is how much of TeX's memory you used:
- 1109 strings out of 478582
- 19266 string characters out of 2844344
- 318363 words of memory out of 3000000
- 19353 multiletter control sequences out of 15000+600000
- 469857 words of font info for 30 fonts, out of 8000000 for 9000
+ 1114 strings out of 478582
+ 19446 string characters out of 2844344
+ 321366 words of memory out of 3000000
+ 19356 multiletter control sequences out of 15000+600000
+ 470495 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,62p,196b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on List.pdf (1 page, 33566 bytes).
+ 55i,5n,62p,213b,175s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\brand\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Notes.pdf (2 pages, 43571 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

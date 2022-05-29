@@ -1,9 +1,13 @@
 # Fdb version 3
-["pdflatex"] 1653801955 "c:/Users/brand/OneDrive/Desktop/main/Reading/List/List.tex" "List.pdf" "List" 1653801955
+["pdflatex"] 1653803917 "c:/Users/brand/OneDrive/Desktop/main/Reading/Intelligent_Investor/Notes.tex" "Notes.pdf" "Notes" 1653803917
   "C:/Users/brand/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1653417158 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/brand/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk" 1653352888 16968 a17899f7ae913499f5ea44c2e9fb193b ""
   "C:/Users/brand/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1653282106 10246961 5f6c02178689df8b16c8276ad8acea94 ""
+  "C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1440.tfm" 993062510 1460 05250f74aea2bdcfe9d6766811b8b7b2 ""
+  "C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1644000708 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty" 1644000708 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -14,10 +18,10 @@
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1639596611 2671 4de6781a30211fe0ea4c672e4a2a8166 ""
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1644218660 29921 d0acc05a38bd4aa3af2017f0b7c137ce ""
   "C:/Users/brand/AppData/Local/Programs/MiKTeX/tex/latex/tools/layout.sty" 1636713860 14907 c3c1291fb67ed663d3bc488d4a10fe27 ""
-  "List.aux" 1653801955 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "List.tex" 1653801954 1059 0f4ca5c453fdb4ef583059bb2dfd71eb ""
-  "c:/Users/brand/OneDrive/Desktop/main/Reading/List/List.tex" 1653801954 1059 0f4ca5c453fdb4ef583059bb2dfd71eb ""
+  "Notes.aux" 1653803917 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "Notes.tex" 1653803916 2504 8e73da2d067dcf7a8ab9c7b4f86dc65a ""
+  "c:/Users/brand/OneDrive/Desktop/main/Reading/Intelligent_Investor/Notes.tex" 1653803916 2504 8e73da2d067dcf7a8ab9c7b4f86dc65a ""
   (generated)
-  "List.aux"
-  "List.log"
-  "List.pdf"
+  "Notes.aux"
+  "Notes.log"
+  "Notes.pdf"
