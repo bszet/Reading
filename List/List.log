@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.22)  28 MAY 2022 23:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.22)  28 MAY 2022 23:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -135,19 +135,19 @@ LaTeX Font Info:    ... okay on input line 5.
 
 [1
 
-{C:/Users/brand/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (List.aux) ) 
+{C:/Users/brand/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (List.aux) ) 
 Here is how much of TeX's memory you used:
  1112 strings out of 478582
  19302 string characters out of 2844344
- 321363 words of memory out of 3000000
+ 322363 words of memory out of 3000000
  19355 multiletter control sequences out of 15000+600000
  470192 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,62p,196b,118s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,5n,62p,196b,178s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\brand\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/brand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on List.pdf (1 page, 38249 bytes).
+Output written on List.pdf (2 pages, 40871 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
